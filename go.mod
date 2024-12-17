@@ -1,3 +1,3 @@
-module github.com/DmitriiTrotskii/utils/v2
+module github.com/DmitriiTrotskii/utils/v3
 
 go 1.22.10
